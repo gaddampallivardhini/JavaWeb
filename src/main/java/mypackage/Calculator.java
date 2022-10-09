@@ -20,7 +20,7 @@ public class Calculator extends HttpServlet
 		
 		return first*second;
 	}
-	//https://github.com/gaddampallivardhini/javaweb.git
+	
 	
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
     {
